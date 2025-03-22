@@ -40,8 +40,8 @@ This project aims to predict the **music genre** based on user demographics (Age
 ## 🔥 How to Use
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Music-Genre-Prediction.git
-cd Music-Genre-Prediction
+git clone https://github.com/yourusername/Music-Genre-Prediction1.git
+cd Music-Genre-Prediction1
 ```
 
 2️⃣ Install required libraries:
